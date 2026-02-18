@@ -1,0 +1,14 @@
+Input: CPU utilization from dataset
+
+For each host:
+    Calculate Loss value
+
+Select host with minimum Loss
+
+Migrate VM
+
+Calculate energy before consolidation
+
+Calculate energy after consolidation
+
+Energy saved = difference
